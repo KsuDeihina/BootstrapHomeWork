@@ -1,0 +1,9 @@
+.row{
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    padding: 10px 0;
+}
+.col-sm-2{
+    width: 180px;
+    border-radius: 10px;
+}
